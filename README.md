@@ -1,5 +1,5 @@
 
-# Mini Projects Repository
+# Data Projects Repository
 Welcome to the Mini Projects Repository! 🚀
 
 This repository is a curated collection of small-scale projects designed to help you practice, explore, 
